@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1718118135 source:u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\date.cpp
+	"Date.h"
+
+1718118143 u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\date.h
+
+1718118300 source:u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\time.cpp
+	"Time.h"
+
+1718118278 u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\time.h
+
+1718120012 source:u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\helperfunctions.cpp
+	"HelperFunctions.h"
+
+1718119929 u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\helperfunctions.h
+	"Vector.h"
+	<string>
+
+1718121329 u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\vector.h
+
+1718121296 source:u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\main.cpp
+	"DataStructure.h"
+	"DataProcessor.h"
+
+1718118466 u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\datastructure.h
+	"Vector.h"
+	"Date.h"
+	"Time.h"
+
+1718121374 u:\murdoch university\semester 4 - 2024\ict283 - data structures and abstractions\assignment 1\assignment1-redo\dataprocessor.h
+	"DataStructure.h"
+	<fstream>
+

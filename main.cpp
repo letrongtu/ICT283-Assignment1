@@ -1,9 +1,10 @@
-#include <iostream>
-
-using namespace std;
+#include "DataStructure.h"
+#include "DataProcessor.h"
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    WeatherLog weather_data;
+    readFileName(weather_data);
+
     return 0;
 }
