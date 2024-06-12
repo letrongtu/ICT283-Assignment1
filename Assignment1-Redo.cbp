@@ -32,6 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="DataProcessor.cpp" />
+		<Unit filename="DataProcessor.h" />
+		<Unit filename="DataStructure.h" />
+		<Unit filename="Date.cpp" />
+		<Unit filename="Date.h" />
+		<Unit filename="HelperFunctions.cpp" />
+		<Unit filename="HelperFunctions.h" />
+		<Unit filename="MenuFunctions.cpp" />
+		<Unit filename="MenuFunctions.h" />
+		<Unit filename="Time.cpp" />
+		<Unit filename="Time.h" />
+		<Unit filename="Vector.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

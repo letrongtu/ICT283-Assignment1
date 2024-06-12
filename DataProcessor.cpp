@@ -17,6 +17,7 @@ void readFileName(WeatherLog &weather_data)
     getline(inSource, filename);
     inSource.close();
 
+    std::cout << "Reading: " << filename << std::endl;
     filename = "./data/" + filename;
     inSource.open(filename);
     if(!inSource.is_open()){
